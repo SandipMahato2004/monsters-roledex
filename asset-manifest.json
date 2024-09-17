@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-roledex/static/css/main.a3b4e30b.css",
+    "main.js": "/monsters-roledex/static/js/main.a60f1c25.js",
+    "static/js/453.1883041c.chunk.js": "/monsters-roledex/static/js/453.1883041c.chunk.js",
+    "index.html": "/monsters-roledex/index.html",
+    "main.a3b4e30b.css.map": "/monsters-roledex/static/css/main.a3b4e30b.css.map",
+    "main.a60f1c25.js.map": "/monsters-roledex/static/js/main.a60f1c25.js.map",
+    "453.1883041c.chunk.js.map": "/monsters-roledex/static/js/453.1883041c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3b4e30b.css",
+    "static/js/main.a60f1c25.js"
+  ]
+}
